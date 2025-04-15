@@ -1,0 +1,11 @@
+.container {
+    padding: 20px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajusta el ancho mínimo según necesites */
+    gap: 20px; /* Espacio entre las tarjetas de los países */
+    margin-top: 20px;
+  }
+  

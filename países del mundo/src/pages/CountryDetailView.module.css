@@ -1,0 +1,11 @@
+.container {
+    padding: 20px;
+  }
+  
+  .countryImage {
+    max-width: 100%; /* Asegura que la imagen no exceda el ancho de su contenedor */
+    height: auto; /* Mantiene la proporción de aspecto */
+    display: block; /* Evita espaciados extra debajo de la imagen */
+    margin-bottom: 1rem;
+  }
+  
